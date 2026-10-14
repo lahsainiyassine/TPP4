@@ -1,0 +1,10 @@
+dao\SalleDao.class
+util\HibernateUtil.class
+entities\Salle.class
+dao\IDao.class
+com\example\App.class
+dao\MachineDao.class
+services\SalleService.class
+test\MainTest.class
+services\MachineService.class
+entities\Machine.class
